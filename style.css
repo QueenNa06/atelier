@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Abrilfatface";
+    src: url(./polices/AbrilFatface-Regular.ttf);
+    font-display: swap;
+    font-style: normal;
+}
+body {
+    background-color: aquamarine ;
+    padding : 30 px;
+    margin : 50px;
+}
